@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Amaya89
+- 👋 Hi, I’m Nayana
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Btech in CSE
 
